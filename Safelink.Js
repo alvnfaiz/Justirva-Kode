@@ -130,7 +130,7 @@ function auto_safeconvert() {
             j++;
         }
         if (a_to_vh == false) {
-            var encryptedUrl = Base64.encode(a_to_vi);
+            var encryptedUrl = Base64.encode(a_to_vi);//link direct
             a_to_ve[i].href = "http://link-poi.blogspot.com/2018/08/link-poi_3.html?url=" + encryptedUrl;
             a_to_ve[i].rel = "nofollow";
             a_to_vb++;
