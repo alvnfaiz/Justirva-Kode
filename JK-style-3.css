@@ -309,7 +309,9 @@ textarea {
 /* =Post styling
 ----------------------------------------------- */
 .entry-meta a {
-  font-size: 13px;}
+  font-size: 13px;
+  color: #FFF;
+}
 .entry-meta {
   margin-bottom: 30px;
 }
